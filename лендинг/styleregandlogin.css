@@ -1,0 +1,81 @@
+body {
+  overflow-x: hidden;
+}
+
+.reg-block {
+  width: 482px;
+  height: 688px;
+  background: #fff;
+  border: 1px solid;
+  position: fixed;
+  left: 38%;
+  top: 20%;
+}
+
+.block-loginandreg {
+  display: flex;
+  justify-content: space-around;
+}
+.block-loginandreg a {
+  text-decoration: none;
+}
+
+.text-p-14-loginandreg {
+  color: #000;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+  font-weight: 700;
+  line-height: normal;
+  border: none;
+  text-decoration: bold;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding: 7% 0% 7% 11%;
+  width: 171px;
+}
+
+.text-before-input {
+  color: #000;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  margin: 5% 0% -3% 8%;
+}
+
+.input-block-loginandreg {
+  border: 1px solid #000;
+  width: 386px;
+  height: 45px;
+  padding: 0% 0% 0% 2%;
+  margin: 0% 0% 0% 8%;
+}
+
+.text-block-loginandreg {
+  color: #000;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: -2% 0% 2% 8%;
+}
+
+.but-reg {
+  background: #000;
+  width: 386px;
+  height: 44px;
+  color: #fff;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  border: none;
+  text-decoration: bold;
+  text-transform: uppercase;
+  letter-spacing: -0.5px;
+}
